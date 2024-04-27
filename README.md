@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JesusRestrepo
-- 👀 I’m interested in continue learning many more things about this world, 
-and be part of a company in which I can continue learning and can put my knowledge at the service of others
-- 🌱 I’m currently learning all about full-stack development, Front End, Back End, and MySQL, I have good
-knowledge in python and basic knowledge in Java
+- 👀 I’m interested in continue learning many more things about this world.
+- 🌱 I’m currently learning all about full-stack development, in Front End i have knowledge in React.js, Javascript, HTML, CSS3, in Back End i have
+knowledge in python, node.js, and Batabases like MySQL, SQL server. Actually, i am acquiring knowledge in ABAP, and BSP applications. Also i have knowledge in bots, through Python, and webscraping with python Selenium.
 - 💞️ I’m looking to collaborate on what I can, I am a person with a good disposition, but I would be much
 more interested in being able to collaborate in all the part of web application development
 - CONTACT ME: facebook: Jesus Restrepo
