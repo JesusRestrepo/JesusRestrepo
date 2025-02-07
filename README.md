@@ -6,7 +6,13 @@ knowledge in python, node.js and .net core with c#. In Batabases like MySQL, SQL
 more interested in being able to collaborate in all the part of web application development
 - CONTACT ME:  whatsapp: +57 317-3617622
 
-<!---
-JesusRestrepo/JesusRestrepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="JesusRestrepo" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="JesusRestrepo" /></p>
+<br><br><br><br><br><br><br><br><br><br>
