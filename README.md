@@ -7,10 +7,24 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=jesusrestrepo&color=blue)
+![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-%23ff69b4)
+![Code](https://img.shields.io/badge/Code-100%25-blue)
+
+---
+
 ### 🚀 Sobre mí
 
-- 🎓 Soy un desarrollador, con experiencia en C#, Python, Typescript, Javascript, Twilio.
-- 💡 Me interesa todo lo relacionado con **Chatbots, automatizaciones, IA, Backend**.
+- 🎓 Soy un desarrollador, con experiencia en C#, Python, Typescript, Javascript, Twilio
+- 💡 Me interesa todo lo relacionado con **Chatbots, automatizaciones, IA, Backend**
+
+---
+
+### 📚 Actualmente Aprendiendo
+
+- 🤖 Integraciones de IA con Python (OpenAI)
+- ☁️ Fundamentos de Git actions
+- 🐳 Contenedores y despliegue con Docker
 
 ---
 
@@ -25,6 +39,16 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
+
+---
+
+### 📂 Proyectos Destacados
+
+- 🔹 **Bot de WhatsApp con Twilio**: Automatización de respuestas usando Twilio y C#. Esperando respuestas, enviando información a la base de datos y conectando servicios por medio de API dependiendo de las respuestas.
+- 🔹 **Llamadas automatizadas con Twilio**: Herramienta automatizada con C# y Twilio para realizar llamadas a personas.
+- 🔹 **Tomador de decisiones con IA**: Definir mediante respuestas pasadas por API a la IA, definir si es un mensaje expresando novedad, o no es novedad.
+- 🔹 **Backend escalable**: Creación de backend escalables con .NET.
 
 ---
 
@@ -34,7 +58,7 @@
   <a href="https://www.linkedin.com/in/jesus-restrepo-714103219/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu.email@example.com">
+  <a href="mailto:jesusrestrepo2003@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
