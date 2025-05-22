@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador apasionado por la tecnología, la innovación y el aprendizaje continuo.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+IA+y+la+automación;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+IA+y+la+automación;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
 </p>
 
 ---
